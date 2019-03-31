@@ -15,10 +15,10 @@ le développement  tourne autour de 3 grandes parties
 
 ## Les Tries ##
 Nous avons 4 réalisations d'exercices de trie:
--Le trie par bulle.
--le trie par insertion.
--le trie par selection.
--le trie avec une liste d'entier.
+-Le trie par bulle.  
+-le trie par insertion.  
+-le trie par selection.  
+-le trie avec une liste d'entier.  
 
 ## Les Boucles ##
 Nous avons 2 types de réalisations d'exercices avec les boucles:

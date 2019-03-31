@@ -14,19 +14,28 @@ le développement  tourne autour de 3 grandes parties
 3. Les Convertions.
 
 ## Les Tries ##
-
+Nous avons 4 réalisations d'exercices de trie:
+-Le trie par bulle
+-le trie par insertion
+-le trie par selection
+-le trie avec une liste d'entier
 
 ## Les Boucles ##
+Nous avons 2 types de réalisations d'exercices avec les boucles:
+*Boucle avec des numérique
+-Compte a Rebour
+-multiplaction d'un nombre
+-Capital
+-table de multiplication
 
-le joueur possèdera les fonctionnalités suivantes.
-![useCasePersonnage.png](https://image.noelshack.com/fichiers/2018/37/3/1536762099-usecasepersonnage.png)
-
-les classes développées.
-
-![diagrammeClassePersonnage.png](http://image.noelshack.com/fichiers/2018/37/3/1536762094-diagrammeclassepersonnage.png)
+*Boucle avec des caractère
+-Caractère à l'envers
+-Compter les caractères
+-Compter un caractère précis
+-Compter le nombre de voyelle
+-faire un palindrome
+-faire un pangramme
 
 ## Les Convertions ##
-
-La sauvegarde du contexte se fera dans la base de données.
-![mcdSauvegarde.png](http://image.noelshack.com/fichiers/2018/37/3/1536762097-mcdsauvegarde.png)
+-Nombre decimal en hexadecimal
 

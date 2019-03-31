@@ -22,13 +22,13 @@ Nous avons 4 réalisations d'exercices de trie:
 
 ## Les Boucles ##
 Nous avons 2 types de réalisations d'exercices avec les boucles:
-*Boucle avec des numérique
+* Boucle avec des numérique.
 -Compte a Rebour
 -multiplaction d'un nombre
 -Capital
 -table de multiplication
 
-*Boucle avec des caractère
+* Boucle avec des caractère.
 -Caractère à l'envers
 -Compter les caractères
 -Compter un caractère précis

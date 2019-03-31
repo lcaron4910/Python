@@ -14,21 +14,21 @@ le développement  tourne autour de 3 grandes parties
 3. Les Convertions.
 
 ## Les Tries ##
-Nous avons 4 réalisations d'exercices de trie:
+Nous avons 4 réalisations d'exercices de trie:  
 -Le trie par bulle.  
 -le trie par insertion.  
 -le trie par selection.  
 -le trie avec une liste d'entier.  
 
 ## Les Boucles ##
-Nous avons 2 types de réalisations d'exercices avec les boucles:
-* Boucle avec des numérique.
+Nous avons 2 types de réalisations d'exercices avec les boucles:  
+* Boucle avec des numérique.  
 -Compte a Rebour.  
 -multiplaction d'un nombre.  
 -Capital.  
 -table de multiplication.  
 
-* Boucle avec des caractère.
+* Boucle avec des caractère.  
 -Caractère à l'envers.  
 -Compter les caractères.  
 -Compter un caractère précis.  
